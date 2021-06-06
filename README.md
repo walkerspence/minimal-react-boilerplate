@@ -1,6 +1,6 @@
 # Minimal react boilerplate
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and then modified.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and then modified to use typescript, and alternate file structure, and custom typescript, eslint and prettier config, disabling certain extraneous rules and allowing for this use of absolute imports.
 ## Available Scripts
 ### `npm start`
 
